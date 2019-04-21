@@ -71,6 +71,14 @@ body {
     bottom: 0;
 }
 
+.tahr {
+    position: fixed;
+    height: 55%;
+    padding: 0 2em;
+    right: 0;
+    bottom: 0;
+}
+
 .main {
     transition: 5s;
 }
